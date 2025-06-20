@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Deteksi Sinar Ultra Violet",
+        "year": "2023",
+        "fund": "Rp.120.000,00",
+        "partner": "Projek Akhir Semester",
+        "role": "Programmer",
+        "description": "Mendeteksi sinar ultra violet dari matahari dengan sensor GY8511. Hasil nilai ditampilkan pada OLED display. Kemudian terdapat peringatan buzzer jika sinar UV di atas 9",
+        "image": "images/projek1.jpg"
+
+    },
+    {
+        "title": "Box IoT Smart Home",
+        "year": "2024",
+        "partner": "Projek Akhir Semester",
+        "role": "Programming",
+        "description": "Membuat box yang berisi sensor suhu dan kelembaban, relay untuk mengendalikan lampu AC, dan juga sensor gas. Menggunakan mikrokontroller ESP32 yang dihhubungkan ke platform Blynk",
+        "image": "images/projek3.png"
+    },
+	{
+        "title": "Line Follower",
+        "year": "2024",
+        "partner": "Projek Akhir Semester",
+        "role": "Programming",
+        "description": "Membuat robot line follower menggunakan kontrol PID.",
+        "image": "images/robotika.jpg"
+    }
+    
+]

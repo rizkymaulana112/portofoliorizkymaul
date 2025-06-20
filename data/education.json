@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines.png",
+        "major": "D4 - Teknologi Rekayasa Elektronika",
+        "year": "2022 - Sekarang",
+        "description": "Berfokus pada elektronika, seperti membuat PCB mulai dari desain hingga assembly, mempelajari beberapa mikrokontroller seperti Arduino, ESP32, Raspberry Pi, dan STM32. Selain itu juga mempelajari beberapa software seperti MATLAB dan LABView. "
+    },
+    {
+        "university": "SMA Negeri 7 Semarang",
+		"logo": "images/smansev3.png",
+        "major": "Jurusan Ilmu Pengetahuan Alam",
+        "year": "2019 - 2022",
+        "description": "Berfokus pada ilmu sains, seperti matematika, kimia, fisika, dan biologi. Selain mendapatkan materi tentang sains, saya juga mendapatkan praktek tentang pelajaran yang sudah diberikan."
+    }
+]

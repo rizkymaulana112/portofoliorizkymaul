@@ -1,0 +1,30 @@
+{
+    "name": "Rizky Maulana Hendradi",
+    "description": "Hai, perkenalkan namaku Rizky. Saya seorang electronic engineering, lulusan dari Politeknik Negeri Semarang. Saya memiliki pengalaman di bidang desain sirkuit PCB, memprogram beberapa mikrokontroller selama perkuliahan (Arduino, ESP32, Raspberry Pi, dan STM32). Selain itu, saya juga memiliki pengetahuan tentang laptop dan PC seperti re-pasta, celaning, dan lain-lain.",
+    "profileImage": "images/Fotoku.jpg",
+    "email": "rizkymaulanahendradi677@gmail.com",
+    "phone": "+62 (882) 381-19605",
+    "socialMedia": [
+        {
+            "platform": "Instagram",
+            "url": "https://www.instagram.com/rizkymaulana0_0/?hl=e"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/rizkymaulana112"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CVku.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Microcontroller", "icon": "fas fa-microchip", "level": 70},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 45},
+        {"name": "Microsoft Software", "icon": "fas fa-desktop", "level": 90},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 50},
+	{"name": "Time Management", "icon": "fas fa-list-check", "level": 95},
+	{"name": "English Languages", "icon": "fas fa-language", "level": 60}
+    ]
+}
